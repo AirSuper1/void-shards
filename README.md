@@ -176,7 +176,7 @@ cd void-shards
 Готовый мод появится здесь:
 
 ```
-build/libs/void-shards-1.0.0.jar
+build/libs/void-shards-x.x.x.jar
 ```
 
 Полезные команды:
