@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "void-shards:void"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "void-shards:void"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "void-shards:void"
+      }
+    ]
+  }
+}

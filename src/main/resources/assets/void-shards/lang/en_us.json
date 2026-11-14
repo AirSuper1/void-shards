@@ -1,0 +1,18 @@
+{
+  "itemGroup.void-shards": "Void Shards",
+  "block.void-shards.void_ore": "Void Ore",
+  "block.void-shards.deepslate_void_ore": "Deepslate Void Ore",
+  "block.void-shards.void_block": "Block of Void",
+  "item.void-shards.void_shard": "Void Shard",
+  "item.void-shards.void_ingot": "Void Ingot",
+  "item.void-shards.void_sword": "Void Sword",
+  "item.void-shards.void_pickaxe": "Void Pickaxe",
+  "item.void-shards.void_axe": "Void Axe",
+  "item.void-shards.void_shovel": "Void Shovel",
+  "item.void-shards.void_hoe": "Void Hoe",
+  "item.void-shards.void_helmet": "Void Helmet",
+  "item.void-shards.void_chestplate": "Void Chestplate",
+  "item.void-shards.void_leggings": "Void Leggings",
+  "item.void-shards.void_boots": "Void Boots",
+  "tag.item.void-shards.void_repair_materials": "Void Repair Materials"
+}

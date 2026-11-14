@@ -1,0 +1,18 @@
+{
+  "itemGroup.void-shards": "Осколки пустоты",
+  "block.void-shards.void_ore": "Руда пустоты",
+  "block.void-shards.deepslate_void_ore": "Глубинносланцевая руда пустоты",
+  "block.void-shards.void_block": "Блок пустоты",
+  "item.void-shards.void_shard": "Осколок пустоты",
+  "item.void-shards.void_ingot": "Слиток пустоты",
+  "item.void-shards.void_sword": "Меч пустоты",
+  "item.void-shards.void_pickaxe": "Кирка пустоты",
+  "item.void-shards.void_axe": "Топор пустоты",
+  "item.void-shards.void_shovel": "Лопата пустоты",
+  "item.void-shards.void_hoe": "Мотыга пустоты",
+  "item.void-shards.void_helmet": "Шлем пустоты",
+  "item.void-shards.void_chestplate": "Нагрудник пустоты",
+  "item.void-shards.void_leggings": "Поножи пустоты",
+  "item.void-shards.void_boots": "Ботинки пустоты",
+  "tag.item.void-shards.void_repair_materials": "Материалы для ремонта пустоты"
+}

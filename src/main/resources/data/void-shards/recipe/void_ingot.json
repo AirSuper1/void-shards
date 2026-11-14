@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "void-shards:void_shard",
+    "N": "minecraft:netherite_ingot"
+  },
+  "pattern": [
+    "SNS",
+    "SSS",
+    " N "
+  ],
+  "result": {
+    "id": "void-shards:void_ingot"
+  }
+}

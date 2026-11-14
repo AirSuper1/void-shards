@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "void-shards",
+	"version": "${version}",
+	"name": "Void Shards",
+	"description": "Adds void ore, void shards, and a full set of void tools and armor that outperform netherite.",
+	"authors": [
+		"AirSuper"
+	],
+	"license": "CC0-1.0",
+	"contact": {
+		"homepage": "https://github.com/AirSuper1/void-shards",
+		"sources": "https://github.com/AirSuper1/void-shards",
+		"issues": "https://github.com/AirSuper1/void-shards/issues"
+	},
+	"icon": "assets/void-shards/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.voidd.shards.VoidShards"
+		],
+		"client": [
+			"com.voidd.shards.client.VoidShardsClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
